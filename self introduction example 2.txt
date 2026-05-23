@@ -1,0 +1,5 @@
+Hello sir/madam, my name is Ramana Reddy. I recently completed my B.Tech in Electronics and Communication Engineering in 2026.
+I have basic knowledge in Java, MySQL, and Git, and I am also learning DevOps tools like Jenkins and Linux.
+I have done a project on Student Database Management System using MySQL, where I worked on writing queries and managing data.
+My strengths are quick learning and self-motivation.
+I am looking for an opportunity in an MNC where I can enhance my skills and grow professionally. Thank you.”

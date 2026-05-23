@@ -1,0 +1,24 @@
+Self-Introduction Example				
+				
+				
+				
+				
+"“Good morning sir/madam,"				
+				
+"My name is Nagireddy Venkata Ramana Reddy. I recently completed my Bachelor of Technology in Electronics and Communication Engineering from Chadalawada Ramanamma Engineering College, Tirupati."				
+"Although my academic background is in ECE, I developed a strong interest in IT and DevOps field, so I decided not to continue in my core domain."				
+"I have basic knowledge in technologies like MySQL, Linux, and AWS EC2. I am also familiar with CI/CD concepts and tools like Jenkins. I have been actively learning how these tools are used in real-time projects."				
+"I am a quick learner and highly interested in building my career in DevOps and cloud technologies. Currently, I am improving my practical skills by practicing daily."				
+Thank you for giving me this opportunity				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				

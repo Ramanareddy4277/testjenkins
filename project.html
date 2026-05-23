@@ -1,0 +1,31 @@
+<h1>Hello DevOps Project</h1>
+
+steps to install 
+=======================
+ec2 linux/windows create 
+connect to putty
+install java, jenkins 
+
+====================================
+
+sudo yum install java-21-amazon-corretto-headless.x86_64
+check java installed or  not --> java --version
+
+
+
+
+
+
+sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
+sudo yum install jenkins 
+ sudo systemctl enable jenkins
+sudo systemctl start jenkins 
+sudo systemctl status jenkins
+
+jenkins --version
+
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword 
+
+
+linux, aws ports 
+
